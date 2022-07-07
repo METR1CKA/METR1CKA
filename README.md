@@ -1,3 +1,3 @@
-<h1 align="center"> Hello There 👋 </h1>
+<h1 align="center"> ABOUT ME </h1>
 
-## About me
+## Profile
