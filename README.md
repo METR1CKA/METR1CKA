@@ -31,7 +31,7 @@
 # Technologies and Frameworks 📦
 
 <code><a href="https://nodejs.org/es/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
-<code><a href="https://adonisjs.com" target="_blank"><img height="50" src="https://camo.githubusercontent.com/076aacc894daf3d9065f7d5bd1d7e8a3d0511668576cd66afddd0ce4af524eaa/68747470733a2f2f692e696d6775722e636f6d2f32774764454a4e2e706e67"></a></code>
+<code><a href="https://adonisjs.com" target="_blank"><img height="50" src="https://avatars.githubusercontent.com/u/13810373?s=280&v=4"></a></code>
 <code><a href="https://laravel.com" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"></a></code>
 
 # Databases 🗄️
