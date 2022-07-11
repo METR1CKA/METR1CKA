@@ -6,7 +6,7 @@
 
 * 💻 IT student at the UTT (Technological University of Torreón)
 
-* 🛠️ Passionate about learning and teaching
+* :teacher: Passionate about learning and teaching
 
 * 👨🏻‍💻 Junior software developer in backend
 
