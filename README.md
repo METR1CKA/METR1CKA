@@ -61,9 +61,9 @@
 <h1 align="center"> 👨🏻‍💻 CONTACT 👨🏻‍💻 </h1>
 
 <div align="center">
-    🌐 My DevBlogs: <a href="https://metr1cka.github.io">METR1CKA DEVBLOGS</a>
+    🌐 My DevBlogs: <a href="https://metr1cka.github.io">DevBlogs</a>
 </div>
 <br>
 <div align="center">
-    📫 How to reach me: <a href="mailto:ferchosalazar054@gmail.com">@METR1CKA</a>
+    📫 Mail: <a href="mailto:ferchosalazar054@gmail.com">@METR1CKA</a>
 </div>
