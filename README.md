@@ -2,15 +2,15 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-* 💼 Junior software developer in SoliduSystems S.A de C.V, México 🇲🇽
+* ### 💼 Junior software developer in SoliduSystems S.A de C.V, México 🇲🇽
 
-* 💻 IT student at the UTT (Technological University of Torreón)
+* ### 💻 IT student at the UTT (Technological University of Torreón)
 
-* 👨‍🏫 Passionate about learning and teaching
+* ### 👨‍🏫 Passionate about learning and teaching
 
-* 👨🏻‍💻 Junior software developer in backend
+* ### 👨🏻‍💻 Junior software developer in backend
 
-* 🎵 Hip-Hop beatmaker and music producer 🎹
+* ### 🎵 Hip-Hop beatmaker and music producer 🎹
 
 # Languages 🖱️
 
