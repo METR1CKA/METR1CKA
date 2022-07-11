@@ -45,6 +45,9 @@
 <code><a href="https://git-scm.com" target="_blank"><img height="50" src="https://cdn.svgporn.com/logos/git-icon.svg"></a></code>
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></a></code>
 <code><a href="https://insomnia.rest" target="_blank"><img height="50" src="https://img.stackshare.io/service/6406/qLPJL1NZ.jpg"></a></code>
+<code><a href="https://www.vim.org" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png"></a></code>
+<code><a href="https://neovim.io" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/367259/67332956-6dbb5000-f528-11e9-9963-0a4c116242d3.jpeg"></a></code>
+<code><a href="https://nvchad.github.io" target="_blank"><img height="50" src="https://nvchad.netlify.app/img/logo.svg"></a></code>
 
 # My favorite SO and Desktop environment 🏆
 
