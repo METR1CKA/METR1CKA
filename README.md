@@ -41,7 +41,7 @@
 
 # My favorite SO and Desktop environment 🏆
 
-|<code><a target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"></a></code>|<code><a href="https://ubuntu.com/download" target="_blank"><img height="50" src="https://i.ytimg.com/vi/9DHUyz54flA/maxresdefault.jpg"></a></code>|<code><a href="https://extensions.gnome.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gnome/gnome-ar21.png"></a></code>|
+|<code><a target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"></a></code>|<code><a href="https://ubuntu.com/download" target="_blank"><img height="50" src="https://i.blogs.es/82572c/debian-logo/1366_2000.jpg"></a></code>|<code><a href="https://extensions.gnome.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gnome/gnome-ar21.png"></a></code>|
 |-|-|-|
 
 # Stats and Languages in github 📊
