@@ -8,12 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=metr1cka&label=Profile%20views&color=blue&style=for-the-badge&abbreviated=true" alt="metr1cka" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=metr1cka&theme=darkhub&no-frame=true&no-bg=true" alt="metr1cka" />
-  </a>
-</p>
-
 - 👨‍💻 All of my projects are available at: [REPOSITORIES](https://github.com/METR1CKA?tab=repositories)
 
 - 📖 My personal blog to document my software projects: [BLOGS](https://metr1cka.github.io/)
@@ -32,18 +26,18 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-</br>
+<br>
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-</br>
+<br>
 
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-</br>
+<br>
 <p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
       <img src="https://angular.io/assets/images/logos/angular/angular.svg"
@@ -154,14 +148,22 @@
     </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=metr1cka&show_icons=true&locale=en&layout=pie&theme=dark#gh-dark-mode-only&hide_border=true" alt="metr1cka" />
+<h3 align="left">Statistics:</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=metr1cka&theme=darkhub&no-frame=true&no-bg=true" alt="metr1cka" />
+  </a>
 </p>
+<p align="center">
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=metr1cka&show_icons=true&locale=en&layout=pie&theme=dark#gh-dark-mode-only&hide_border=true" alt="metr1cka" />
+  </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=metr1cka&show_icons=true&locale=en&theme=dark#gh-dark-mode-only&hide_border=true" alt="metr1cka" />
-</p>
+  <p>
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=metr1cka&show_icons=true&locale=en&theme=dark#gh-dark-mode-only&hide_border=true" alt="metr1cka" />
+  </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metr1cka&theme=dark#gh-dark-mode-only&hide_border=true" alt="metr1cka" />
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metr1cka&theme=dark#gh-dark-mode-only&hide_border=true" alt="metr1cka" />
+  </p>
 </p>
