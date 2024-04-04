@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm METR1CK4</h1>
+<h1 align="center">Hi 👋, I'm Fernando</h1>
+<h3 align="center">A.K.A METR1CK4</h3>
 <h3 align="center">A passionate web backend developer from México</h3>
 
-<p align="left">
+<br>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=metr1cka&label=Profile%20views&color=blue&style=for-the-badge&abbreviated=true" alt="metr1cka" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=metr1cka&theme=darkhub&no-frame=true&no-bg=true" alt="metr1cka" />
   </a>
@@ -13,7 +16,9 @@
 
 - 👨‍💻 All of my projects are available at: [REPOSITORIES](https://github.com/METR1CKA?tab=repositories)
 
-- 📫 How to reach me **ferchosalazar054@gmail.com**
+- 📖 My personal blog to document my software projects: [BLOGS](https://metr1cka.github.io/)
+
+- 📫 Contact me: [EMAIL](mailto:ferchosalazar054@gmail.com)
 
 - ⚡ Fun fact **I am beatmaker / music producer, you can find my material on YouTube: [BEATS](https://www.youtube.com/@metr1ck4onthebeats3/videos)**
 
@@ -27,6 +32,18 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+</br>
+
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+</br>
+
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+</br>
 <p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
       <img src="https://angular.io/assets/images/logos/angular/angular.svg"
