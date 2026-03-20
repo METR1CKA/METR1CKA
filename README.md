@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Fernando Salazar
  
 I'm a **Backend Engineer** passionate about building scalable and maintainable systems.  
-With **3+ years of experience** in **Node.js** and **TypeScript**, I currently work in the **logistics industry**, developing SaaS platforms and AI-powered automation.  
+With **4+ years of experience** in **Node.js** and **TypeScript**, I currently work in the **logistics industry**, developing SaaS platforms and AI-powered automation.  
 I'm a **Software Engineering graduate** from Universidad Tecnológica de Torreón, always focused on clean architecture and real business impact.
  
 ---
